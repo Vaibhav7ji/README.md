@@ -11,10 +11,19 @@ Let’s build something great together!
 ---
 
 🌐 **Socials:**  
-<a href="https://discord.com/" target="_blank"><img src="https://camo.githubusercontent.com/0c8cc1fe3fbb3f9edd0e9a2b5cb788e5f8b7d8d5f6d4c8e6f8c3c5f8e6a9b8c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d3138414345383f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" /></a>
-<a href="https://facebook.com/" target="_blank"><img src="https://camo.githubusercontent.com/0a2d9b5f7ae8e7c2a5d3c7e7f9c3b7e0b8a3b7e7f8c3e9c2e2a7b8c7a8c2e3c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138414345383f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d626c7565" alt="Facebook" /></a>
-<a href="https://instagram.com/" target="_blank"><img src="https://camo.githubusercontent.com/2f5ea7ecfa5f16e7c2a5f3b7e0c3e7d0a5d3c7e2a7c3e7d0a5e7e9c2a8b8c3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d3138414345383f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d653544613144" alt="Instagram" /></a>
-<a href="https://linkedin.com/" target="_blank"><img src="https://camo.githubusercontent.com/0e40b0b6c8d5f8e6f7b8c9c7e7e8c0d3a5b6b8c9e7e8b7c8c5c7e8c9c8b6e7c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3138414345383f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d626c7565" alt="LinkedIn" /></a>
+<a href="https://discord.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord" />
+</a>
+<a href="https://facebook.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
+</a>
+<a href="https://instagram.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+</a>
+
 
 
 ---
