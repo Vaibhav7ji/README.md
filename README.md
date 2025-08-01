@@ -17,10 +17,10 @@ Let’s build something great together!
 <a href="https://facebook.com/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
 </a>
-<a href="https://instagram.com/" target="_blank">
+<a href="https://www.instagram.com/vaibhavvv._v/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
 </a>
-<a href="https://linkedin.com/" target="_blank">
+<a href="www.linkedin.com/in/vaibhav-jain-a93b04230" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
 </a>
 
@@ -73,4 +73,4 @@ Let’s build something great together!
 ---
 
 😂 **Random Dev Meme**  
-<img src="https://random-memer.herokuapp.com/" width="400"/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical" width="400"/>
